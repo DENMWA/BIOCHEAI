@@ -1,0 +1,1 @@
+# Global configuration settings for BioCheAI\n
